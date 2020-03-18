@@ -9,6 +9,7 @@ import "./App.css";
 // import the PostsPage and SearchBar and add them to the App
 
 
+
 const App = () => {
 
   return (
